@@ -10,8 +10,8 @@ spring:
       server:
         git:
           uri: https://github.com/jilinwula/springcloud-config
-server:
-  port: 8081
+#server:
+#  port: 8081
 userinfo:
   username: jilinwula
   password: 123456789
