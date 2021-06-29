@@ -14,4 +14,4 @@ spring:
 #  port: 8081
 userinfo:
   username: jilinwula
-  password: 12345
+  password: 123456
