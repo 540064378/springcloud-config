@@ -1,4 +1,4 @@
-servername: test11211
+servername: test33533
 #spring:
 #  application:
 #    name: springcloud-config
@@ -11,4 +11,4 @@ servername: test11211
 #  port: 8081
 userinfo:
   username: jilinwula
-  password: 789afewrwer
+  password: 789qazwsx
